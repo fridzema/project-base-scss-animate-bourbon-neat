@@ -96,7 +96,7 @@
 		"outputAbbreviatedPath": "\/scripts\/main.min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 1,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 0
 		},
 	"\/scripts\/main.min.js": {
